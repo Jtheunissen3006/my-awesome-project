@@ -11,3 +11,9 @@ a{
 p{
     font-size: 40px
 }
+
+p strong {
+     color: rgb(150, 0, 50); 
+}
+
+div.speciaal:hover { background: rgb(217, 255, 0); }
